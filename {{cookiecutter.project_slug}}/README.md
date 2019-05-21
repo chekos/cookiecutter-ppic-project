@@ -1,6 +1,8 @@
 {{cookiecutter.project_slug}}
 ==============================
 
+* project code: {{ cookiecutter.project_code }}
+
 {{cookiecutter.project_short_description}}
 
 Project Organization
@@ -10,8 +12,6 @@ Project Organization
     ├── AUTHORS.md
     ├── LICENSE
     ├── README.md
-    ├── bin
-    ├── config
     ├── data
     │   ├── external
     │   ├── interim

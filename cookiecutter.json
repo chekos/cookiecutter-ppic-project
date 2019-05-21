@@ -1,11 +1,10 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
+    "full_name": "Sergio Sanchez",
+    "email": "sanchez@ppic.org",
+    "project_name": "Name of project",
+    "project_code": "You can find this on Backroads",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
-    "release_date": "{% now 'local' %}",
-    "version": "0.1.0",
+    "date": "{% now 'local' %}",
     "_extensions": ["jinja2_time.TimeExtension"]
 }

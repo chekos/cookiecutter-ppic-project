@@ -1,6 +1,10 @@
 Credits
 =======
 
+Project Code
+------------
+* {{ cookiecutter.project_code }}
+
 Project Lead
 ----------------
 
