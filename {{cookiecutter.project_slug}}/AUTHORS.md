@@ -1,16 +1,11 @@
-Credits
-=======
+# Authors
 
-Project Code
-------------
-* {{ cookiecutter.project_code }}
+## Project Code
 
-Project Lead
-----------------
+* __{{ cookiecutter.project_code }}__
 
+## Authors
 * {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>
 
-Project Contributors
-------------
+## Project Contributors
 
-None.
