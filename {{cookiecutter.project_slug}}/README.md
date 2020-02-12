@@ -22,6 +22,8 @@ Project Organization
 ├── reports            <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   └── figures        <- Figures for the manuscript or reports
 └── src                <- Source code for this project
+    ├── __init__       <- Makes src a Python module
+    ├── apps           <- scripts for apps (flask, streamlit)
     ├── data           <- scripts and programs to process data
     ├── external       <- Any external source code, e.g., pull other git projects, or external libraries
     ├── models         <- Source code for your own model
